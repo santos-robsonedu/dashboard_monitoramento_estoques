@@ -26,6 +26,7 @@ Base de Dados: Após o processamento, os dados são utilizados como base para vi
 O dashboard é organizado em três seções principais:
 
 1️⃣ Indicadores Atuais
+![image](https://github.com/user-attachments/assets/91fc9261-ec6d-4b12-b795-83e85b2deb93)
 
 Esta seção exibe os indicadores mais relevantes, incluindo:
 Potencial de Vendas: Um valor essencial que orienta a gestão de estoques. É calculado com base no custo médio do metro cúbico dos produtos em estoque. Esse valor médio é reavaliado constantemente, mas em resumo, cada R$ 1 em estoque tem o potencial de se transformar em média em R$ 1,8 na hora da venda.
