@@ -25,14 +25,14 @@ Base de Dados: Após o processamento, os dados são utilizados como base para vi
 ## 🧩 Estrutura do Dashboard
 O dashboard é organizado em três seções principais:
 
-1️⃣ Indicadores Atuais
+## 1️⃣ Indicadores Atuais
 ![image](https://github.com/user-attachments/assets/91fc9261-ec6d-4b12-b795-83e85b2deb93)
 
 Esta seção exibe os indicadores mais relevantes, incluindo:
 Potencial de Vendas: Um valor essencial que orienta a gestão de estoques. É calculado com base no custo médio do metro cúbico dos produtos em estoque. Esse valor médio é reavaliado constantemente, mas em resumo, cada R$ 1 em estoque tem o potencial de se transformar em média em R$ 1,8 na hora da venda.
 Valor Total do Estoque, SKUs em Estoque e SKUs Sem Estoque.
 
-2️⃣ Análise de Capacidade de Vendas
+## 2️⃣ Análise de Capacidade de Vendas
 ![image](https://github.com/user-attachments/assets/16e1300d-79a0-4244-8203-dec68bcfe563)
 
 Nesta seção, é possível visualizar:
@@ -40,7 +40,7 @@ Meta de Vendas da Empresa.
 Capacidade de Geração de Receita: O valor potencial de receita dos produtos em estoque. Os valores de venda atuais não são informados aqui, para não interferir na análise dos compradores, pois é possível bater metas de venda mesmo com um estoque problemático, o que poderia diminuir a importância dada aos ajustes necessários.
 Ocupação do Espaço de Armazenamento: O valor potencial de receita possível de acordo com o espaço total do armazém e se a meta de vendas cabe dentro da capacidade atual de armazenamento.
 
-3️⃣ Distribuição dos Estoques
+## 3️⃣ Distribuição dos Estoques
 ![image](https://github.com/user-attachments/assets/37007716-f355-4efd-b01e-78a3a8f60e11)
 
 Esta seção traz insights sobre:
