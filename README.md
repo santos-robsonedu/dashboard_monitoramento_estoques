@@ -33,6 +33,7 @@ Potencial de Vendas: Um valor essencial que orienta a gestão de estoques. É ca
 Valor Total do Estoque, SKUs em Estoque e SKUs Sem Estoque.
 
 2️⃣ Análise de Capacidade de Vendas
+![image](https://github.com/user-attachments/assets/16e1300d-79a0-4244-8203-dec68bcfe563)
 
 Nesta seção, é possível visualizar:
 Meta de Vendas da Empresa.
@@ -40,6 +41,7 @@ Capacidade de Geração de Receita: O valor potencial de receita dos produtos em
 Ocupação do Espaço de Armazenamento: O valor potencial de receita possível de acordo com o espaço total do armazém e se a meta de vendas cabe dentro da capacidade atual de armazenamento.
 
 3️⃣ Distribuição dos Estoques
+![image](https://github.com/user-attachments/assets/37007716-f355-4efd-b01e-78a3a8f60e11)
 
 Esta seção traz insights sobre:
 Níveis de Estoque: Exibe a distribuição percentual entre estoque ideal, acima do ideal, abaixo do ideal e zerado, permitindo uma rápida identificação de pontos críticos, assim como o espaço ocupado no armazém.
