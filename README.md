@@ -19,9 +19,9 @@ Os dados apresentados neste dashboard foram substituídos por valores sintético
 
 ## 🛠️ Obtenção e Tratamento dos Dados
 
-- Fonte dos Dados: As informações de estoque são obtidas automaticamente toda segunda-feira via API do Bling ERP.
-- Processamento: Um script em Python trata os dados, gera novas métricas (como o potencial de vendas) e adiciona informações relevantes sobre a capacidade de armazenamento.
-- Base de Dados: Após o processamento, os dados são utilizados como base para visualização no Power BI.
+- **Fonte dos Dados:** As informações de estoque são obtidas automaticamente toda segunda-feira via API do Bling ERP.
+- **Processamento:** Um script em Python trata os dados, gera novas métricas (como o potencial de vendas) e adiciona informações relevantes sobre a capacidade de armazenamento.
+- **Base de Dados:** Após o processamento, os dados são utilizados como base para visualização no Power BI.
 
 ## 🧩 Estrutura do Dashboard
 O dashboard é organizado em três seções principais:
