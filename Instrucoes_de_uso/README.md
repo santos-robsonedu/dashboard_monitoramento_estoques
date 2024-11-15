@@ -1,4 +1,7 @@
 ## 🧩 Estrutura do Dashboard
+
+Este dashboard é atualizado automaticamente toda segunda-feira, oferecendo aos compradores uma visão clara e objetiva da situação dos estoques. Seu principal objetivo é orientar decisões estratégicas para a otimização desse recurso essencial no varejo.
+
 O dashboard é organizado em três seções principais:
 
 ## 1️⃣ Indicadores Atuais
@@ -25,6 +28,11 @@ Nesta seção, é possível visualizar:
 - **Meta de Vendas da Empresa.**
 - **Capacidade em Estoque:** O valor potencial de receita dos produtos em estoque. Os valores de venda atuais não são informados aqui para não interferir na análise dos compradores, pois é possível bater metas de venda mesmo com um estoque problemático, o que poderia diminuir a importância dada aos ajustes necessários.
 - **Capacidade do Espaço:** O valor potencial de receita de acordo com o espaço total do armazém, também é possível avaliar se a meta de vendas cabe dentro da capacidade atual de armazenamento.
+
+## Insights:
+
+Atualmente, podemos observar que o estoque disponível não é suficiente para atingir a meta de vendas estabelecida. No entanto, é evidente que o espaço atual do armazém oferece capacidade para aumentar os estoques.
+<br><br>
 
 ## 3️⃣ Distribuição dos Estoques
 ![image](https://github.com/user-attachments/assets/37007716-f355-4efd-b01e-78a3a8f60e11)
