@@ -58,6 +58,7 @@ Embora haja espaço disponível no armazém para aumentar os estoques, a distrib
 <br><br>
 
 ## 🚀 Outras Análises Relevantes:
+<br><br>
 
 Os produtos acima do estoque máximo ocupam metade do espaço do armazém.
 ![image](https://github.com/user-attachments/assets/8a22d0a4-8a38-4a0b-8ee1-f9c4f36a32f2)
