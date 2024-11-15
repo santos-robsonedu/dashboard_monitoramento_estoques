@@ -50,3 +50,10 @@ Esta seção traz insights sobre:
 - **Top Produtos em Estoque:** Produtos com maior valor total em estoque, ajudando a identificar itens de alto impacto.
 - **Top Categorias:** Visualiza as categorias de maior volume em estoque, contribuindo para o equilíbrio do portfólio.
 
+Cada produto em estoque tem seus níveis de estoque calculados de acordo com o histórico de vendas dos últimos 30 dias, atualizados semanalmente. O 'Limite mínimo' deve atender pelo menos 20 dias de venda e o 'Limite máximo' deve atender até 45 dias de vendas. O ideal é que a quantidade em estoque fique entre os limites mínimos e máximos.
+
+## Insights:
+
+
+<br><br>
+
