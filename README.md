@@ -40,7 +40,7 @@ Esta seção exibe os indicadores mais relevantes, incluindo:
 Nesta seção, é possível visualizar:
 
 - **Meta de Vendas da Empresa.**
-- **Capacidade de Geração de Receita:** O valor potencial de receita dos produtos em estoque. Os valores de venda atuais não são informados aqui, para não interferir na análise dos compradores, pois é possível bater metas de venda mesmo com um estoque problemático, o que poderia diminuir a importância dada aos ajustes necessários.
+- **Capacidade de Geração de Receita:** O valor potencial de receita dos produtos em estoque. Os valores de venda atuais não são informados aqui para não interferir na análise dos compradores, pois é possível bater metas de venda mesmo com um estoque problemático, o que poderia diminuir a importância dada aos ajustes necessários.
 - **Ocupação do Espaço de Armazenamento:** O valor potencial de receita possível de acordo com o espaço total do armazém e se a meta de vendas cabe dentro da capacidade atual de armazenamento.
 
 ## 3️⃣ Distribuição dos Estoques
