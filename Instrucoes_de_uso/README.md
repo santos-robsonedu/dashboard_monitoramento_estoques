@@ -14,7 +14,7 @@ Esse indicador é fundamental, pois é usado para calcular uma estimativa da rec
 
 ## Insights:
 
-De imediato, é possível observar um número significativo de SKUs sem estoque, o que impede a geração de receitas. Esses itens devem ser analisados para determinar se estão zerados devido a uma decisão estratégica (como a escolha de não reposição) ou por rupturas de estoque, onde há perda de vendas devido à falta de produtos disponíveis.
+De imediato, é possível observar um número significativo de SKUs sem estoque. Esses itens devem ser analisados para determinar se estão zerados devido a uma decisão estratégica (como a escolha de não reposição) ou por rupturas de estoque, onde há perda de vendas devido à falta de produtos disponíveis.
 <br><br>
 
 ## 2️⃣ Análise de Capacidade de Vendas
