@@ -6,8 +6,16 @@ O dashboard é organizado em três seções principais:
 
 Esta seção exibe os indicadores mais relevantes, incluindo:
 
-- **Potencial de Vendas:** Um valor essencial que orienta a gestão de estoques. É calculado com base no custo médio do metro cúbico dos produtos em estoque. Esse valor médio é reavaliado constantemente, mas em resumo, cada R$ 1 em estoque tem o potencial de se transformar em média em R$ 1,8 na hora da venda.
-- **Valor Total do Estoque (CMV), SKUs em Estoque e SKUs Sem Estoque.**
+- **Potencial de Vendas:** A partir de dados históricos, identificou-se que cada R$ 1 de custo do metro cúbico dos produtos armazenados pode gerar, em média, R$ 1,80 de receita, representando um potencial de 1,8x na geração de receita. Esse potencial pode ser ainda maior com margens de lucro mais elevadas.
+
+Esse indicador é fundamental, pois fornece uma estimativa tanto da receita que pode ser gerada com os estoques atuais quanto da capacidade máxima de receita com base no espaço disponível no armazém.
+- **Valor Total do Estoque:** Custo total dos produtos em estoque (CMV)
+- **SKUs em Estoque**: Variedade de produtos disponíveis para venda.
+- **SKUs Sem Estoque**: Variedade de produtos com ruptura.
+
+## INSIGHTS:
+
+De imediato, é possível observar um número significativo de SKUs sem estoque, o que impede a geração de receitas. Esses itens devem ser analisados para determinar se estão zerados devido a uma decisão estratégica (como a escolha de não reposição) ou por rupturas de estoque, onde há perda de vendas devido à falta de produtos disponíveis.
 
 ## 2️⃣ Análise de Capacidade de Vendas
 ![image](https://github.com/user-attachments/assets/16e1300d-79a0-4244-8203-dec68bcfe563)
