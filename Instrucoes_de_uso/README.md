@@ -7,7 +7,6 @@ O dashboard é organizado em três seções principais:
 Esta seção exibe os indicadores mais relevantes, incluindo:
 
 - **Potencial de Vendas:** A partir de dados históricos, identificou-se que cada R$ 1 de custo do metro cúbico dos produtos armazenados pode gerar, em média, R$ 1,80 de receita, representando um potencial de 1,8x na geração de receita. Esse potencial pode ser ainda maior com margens de lucro mais elevadas.
-
 Esse indicador é fundamental, pois fornece uma estimativa tanto da receita que pode ser gerada com os estoques atuais quanto da capacidade máxima de receita com base no espaço disponível no armazém.
 - **Valor Total do Estoque:** Custo total dos produtos em estoque (CMV)
 - **SKUs em Estoque**: Variedade de produtos disponíveis para venda.
