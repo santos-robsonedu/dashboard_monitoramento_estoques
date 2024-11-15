@@ -29,6 +29,9 @@ Nesta seção, é possível visualizar:
 - **Capacidade em Estoque:** O valor potencial de receita dos produtos em estoque. Os valores de venda atuais não são informados aqui para não interferir na análise dos compradores, pois é possível bater metas de venda mesmo com um estoque problemático, o que poderia diminuir a importância dada aos ajustes necessários.
 - **Capacidade do Espaço:** O valor potencial de receita de acordo com o espaço total do armazém, também é possível avaliar se a meta de vendas cabe dentro da capacidade atual de armazenamento.
 
+O cálculo do custo por metro cúbico envolve calcular o volume de cada produto a partir das suas dimensões e, em seguida, dividir o preço de custo pelo volume em metros cúbicos. Isso permite entender o custo de ocupar um metro cúbico no estoque para cada produto. Foi escolhida a mediana dos custos como valor de referencia para todo o estoque.
+O potencial de vendas é apurado multiplicando a mediana do custo por metro cúbico pela área total disponível ou ocupada no estoque, multiplicado pelo indicador de potencial de vendas.
+
 ## Insights:
 
 Atualmente, podemos observar que o estoque disponível não é suficiente para atingir a meta de vendas estabelecida. No entanto, é evidente que o espaço atual do armazém oferece capacidade para aumentar os estoques.
