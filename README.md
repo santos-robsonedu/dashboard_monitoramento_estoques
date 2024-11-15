@@ -3,7 +3,7 @@
 ![layout_inicial](https://github.com/user-attachments/assets/0b442d20-d862-45c7-9aa7-0d67e84f772a)
 
 
-Este dashboard foi criado para simplificar o acompanhamento dos estoques por parte da equipe de compras, auxiliando-os na tomada de decisões semanais sobre ajustes necessários para manter os níveis de estoque saudáveis e alinhados com as metas da empresa.
+Este dashboard foi criado para simplificar o acompanhamento dos estoques por parte da equipe de compras, auxiliando-os na tomada de decisões semanais sobre ajustes necessários para manter os níveis de estoque saudáveis, alinhados com as metas e sem comprometer o fluxo de caixa da empresa.
 
 ## 🎯 Objetivo
 O dashboard visa fornecer uma visão objetiva da situação do estoque, de forma a:
@@ -12,6 +12,7 @@ O dashboard visa fornecer uma visão objetiva da situação do estoque, de forma
 - Identificar se os estoques estão em condições ideais para alcançar as metas de vendas.
 - Contribuir diretamente com o planejamento e as estratégias da equipe de compras.
 
+É muito comum o estoque ser descrito como "dinheiro parado", pois representa capital investido que ainda não gerou retorno. Manter um bom controle de estoque é essencial para evitar imobilização excessiva de capital e custos adicionais com armazenamento, além de minimizar o risco de obsolescência.
 Para um e-commerce varejista que opera exclusivamente com vendas a partir do estoque disponível, o controle do estoque é fundamental para uma operação saudável, impactando diretamente as vendas, margens e conversões. Todas as outras métricas são diretamente dependentes dos níveis de estoque.
 
 ## 🏷️ Dados Sintéticos
