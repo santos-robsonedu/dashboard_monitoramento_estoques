@@ -51,7 +51,7 @@ Nesta seção, é possível visualizar:
 Esta seção traz insights sobre:
 
 - **Espaço Ocupado:** Quanto da área útil do armazém está sendo ocupada pelos produtos em estoque.
-- **Níveis de Estoque:** Exibe a distribuição percentual entre estoque ideal, acima do ideal, abaixo do ideal e zerado, permitindo uma rápida identificação de pontos críticos, assim como o espaço ocupado no armazém.
+- **Níveis de Estoque:** Exibe a distribuição percentual entre estoque ideal, acima do ideal, abaixo do ideal e zerado, permitindo uma rápida identificação de pontos críticos.
 - **Top Produtos em Estoque:** Produtos com maior valor total em estoque, ajudando a identificar itens de alto impacto.
 - **Top Categorias:** Visualiza as categorias de maior volume em estoque, contribuindo para o equilíbrio do portfólio.
 
