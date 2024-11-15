@@ -10,7 +10,7 @@ Esta seção exibe os indicadores mais relevantes, incluindo:
 Esse indicador é fundamental, pois é usado para calcular uma estimativa da receita que pode ser gerada com os estoques atuais e da capacidade máxima de receita com base no espaço disponível no armazém.
 - **Valor Total do Estoque:** Custo total dos produtos em estoque (CMV).
 - **SKUs em Estoque**: Variedade de produtos disponíveis para venda.
-- **SKUs Sem Estoque**: Variedade de produtos com ruptura.
+- **SKUs sem Estoque**: Variedade de produtos com ruptura.
 
 ## Insights:
 
