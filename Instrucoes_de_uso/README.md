@@ -59,15 +59,14 @@ Embora haja espaço disponível no armazém para aumentar os estoques, a distrib
 
 ## 🚀 Outras Análises Relevantes:
 
+Os produtos acima do estoque máximo ocupam metade do espaço do armazém.
 ![image](https://github.com/user-attachments/assets/8a22d0a4-8a38-4a0b-8ee1-f9c4f36a32f2)
-
-Os produtos acima do estoque máximo ocupam metade do espaço do armazém. 
-
-![image](https://github.com/user-attachments/assets/5ba368a4-31fc-40ad-87e2-6ed2c555d96f)
-
+<br><br>
+ 
 Dos Top produtos em estoque, apenas o 'produto_451' está dentro dos limites ideais.
-
-![image](https://github.com/user-attachments/assets/df1071be-b765-41b8-9508-2741cd5b1aa3)
+![image](https://github.com/user-attachments/assets/5ba368a4-31fc-40ad-87e2-6ed2c555d96f)
+<br><br>
 
 Em relação às categorias, o 'GRUPO_AD' apresenta os piores níveis de estoque, com 87% dos itens acima do limite máximo. Isso provavelmente reflete a sazonalidade: produtos com alta demanda exigem maiores estoques em certas épocas do ano, mas ao final do pico de vendas, a conversão desse estoque residual se torna cada vez mais difícil, à medida que os limites de venda diminuem junto com a queda nas vendas.
-
+![image](https://github.com/user-attachments/assets/df1071be-b765-41b8-9508-2741cd5b1aa3)
+<br><br>
