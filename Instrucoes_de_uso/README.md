@@ -54,6 +54,6 @@ Cada produto em estoque tem seus níveis de estoque calculados de acordo com o h
 
 ## Insights:
 
-
+Embora haja espaço disponível no armazém para aumentar os estoques, a distribuição atual não está otimizada. Apenas 16% dos SKUs estão dentro dos limites ideais. Além disso, 54% dos SKUs ultrapassam o limite máximo, o que indica que esses recursos podem ser realocados para outros SKUs à medida que as unidades forem vendidas, visando uma alocação mais eficiente dos recursos.
 <br><br>
 
