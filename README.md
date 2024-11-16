@@ -6,7 +6,7 @@
 Este dashboard foi criado para simplificar o acompanhamento dos estoques por parte da equipe de compras, auxiliando-os na tomada de decisões semanais sobre ajustes necessários para manter os níveis de estoque saudáveis, alinhados com as metas e sem comprometer o fluxo de caixa da empresa.
 
 ## 🎯 Objetivo
-O dashboard visa fornecer uma visão objetiva da situação do estoque, de forma a:
+O dashboard visa fornecer uma visão objetiva da situação do estoque, de forma a: 
 
 - Avaliar a situação atual dos níveis de estoque.
 - Identificar se os estoques estão em condições ideais para alcançar as metas de vendas.
