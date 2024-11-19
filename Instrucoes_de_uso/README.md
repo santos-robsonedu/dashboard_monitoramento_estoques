@@ -33,6 +33,7 @@ O cálculo do custo por metro cúbico envolve calcular o volume de cada produto 
 O potencial de vendas é apurado multiplicando a mediana do custo por metro cúbico pela área total disponível ou ocupada no estoque, multiplicado pelo indicador de potencial de vendas.
 
 ![image](https://github.com/user-attachments/assets/77732def-b972-41dc-82ab-817a0dc90ca5)
+![image](https://github.com/user-attachments/assets/6f169443-d02e-48c9-82e7-0b163a0f165d)
 
 
 ## Insights:
